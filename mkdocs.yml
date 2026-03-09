@@ -6,16 +6,18 @@ theme:
   name: material
   language: nl
   custom_dir: overrides
+  logo: images/logo-athome.png
+  favicon: images/logo-athome.png
   palette:
-    - scheme: default
-      primary: teal
-      accent: orange
+    - scheme: athome
+      primary: custom
+      accent: custom
       toggle:
         icon: material/brightness-7
         name: Donker thema
     - scheme: slate
-      primary: teal
-      accent: orange
+      primary: custom
+      accent: custom
       toggle:
         icon: material/brightness-4
         name: Licht thema
@@ -28,10 +30,8 @@ theme:
     - search.highlight
     - content.tabs.link
     - toc.integrate
-  icon:
-    logo: material/home-city
   font:
-    text: Roboto
+    text: Montserrat
     code: Roboto Mono
 
 plugins:
@@ -84,6 +84,7 @@ extra:
 extra_javascript:
   - javascripts/auth.js
 
-extra_css: []
+extra_css:
+  - stylesheets/athome.css
 
-copyright: "&copy; At Home Curaçao"
+copyright: "&copy; At Home Curaçao Real Estate"
