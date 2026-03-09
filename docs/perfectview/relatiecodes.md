@@ -18,6 +18,8 @@ Wijs bij elk contact de juiste relatiecodes toe:
 | **MAK** | Makelaar | Partner-makelaar |
 | **HYP** | Hypotheek | Hypotheek-gerelateerd contact |
 | **KAV** | Kavel Koop | Interesse in bouwkavels |
+| **TAX** | Taxatie / Waardebepaling | Taxatie- of waardebepaling aanvraag |
+| **EMI** | Emigratie begeleiding | Interesse in emigratie naar Curaçao |
 
 !!! info "Meerdere codes mogelijk"
     Een contact kan meerdere relatiecodes hebben. Bijvoorbeeld: iemand die zowel wil kopen (KHS) als investeren (INV).

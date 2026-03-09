@@ -48,9 +48,26 @@ Nieuwe wijken moeten gekoppeld worden aan de juiste regio en vertaald worden:
 
 ![Wijken onder regio hangen](../images/wordpress/Wordpress wijken onder regio hangen en vertalen.png)
 
-## Veelgebruikte wijken
+## Alle wijken op Curaçao
 
-Abrahamsz, Blue Bay, Boca Gentil, Bottelier, Brakkeput, Caracasbaaiweg, Cas Grandi, Coral Estate, Damasco, Emmastad, Jan Sofat, Jan Thiel, Jongbloed, Lagun, Mahaai, Marbella, Montana, Otrobanda, Pietermaai, Piscadera, Punda, Royal Palm Resort, Salina, Santa Maria, Spaanse Water, Vista Royal, Westpunt, Willemstad, Zuurzak.
+Onderstaande lijst bevat alle wijken die in het systeem staan. Gebruik **alleen** wijken uit deze lijst.
+
+Abrahamsz, Amerikanenkamp, Banda Abou, Barber, Biesheuvel, Blue Bay, Boca Gentil, Boca Sami, Bonam, Bottelier, Brakkeput, Brievengat, Buena Vista, Caracasbaaiweg, Cas Abou, Cas Cora, Cas Grandi, Cerrito, Coral Estate, Curasol, Damacor, Damasco, Dominquito, Emmastad, Fontein, Fortuna Ariba, Francia, Girouette, Grote Berg, Hanenberg, Hato, Jan Sofat, Jan Thiel, Janwe, Jongbloed, Julianadorp, Katoentuin, Koraal Partier, Koraal Specht, Kwartje, Lagun, Lagunisol, Mahaai, Mahuma, Mambo, Marbella, Marchena, Marie Pampoen, Matancia, Mon Repos, Montana, Muizenberg, Otrobanda, Pietermaai, Piscadera, Pos Cabai, Punda, Rooi Catochi, Rooi Santu, Royal Palm Resort, Rust en Vrede, Sabana Craz, Salina, San Sebastiaan, Santa Barbara, Santa Catharina, Santa Maria, Santa Rosa, Scharloo, Schelpwijk, Scherpenheuvel, Seaquarium, Semi Kok, Seru Boka, Seru Coral, Seru Lora, Sint Michiels, Sint Willibrordus, Sorsaka, Soto, Spaanse Water, Steenrijk, Suffisant, Sun Valley, Sunset Heights, Tera Kora, Toni Kunchi, Van Engelen, Veeris, Vista Montana, Vista Royal, Vredenberg, Westpunt, Willemstad, Zapateer, Zeelandia, Zegu, Zuurzak.
+
+### Villaparken
+
+- Villapark Blue Bay
+- Villapark Boca Gentil
+- Villapark Coral Estate
+- Jalousi Residence
+- Villapark Jan Sofat
+- La Maya Resort
+- Villapark Seru Coral
+- Villapark Royal Gardens
+- Villapark Vredenberg
+- Villawijk Vista Royal
+- Villapark Zuurzak
+- Marbella Estate
 
 ## Volgende stap
 

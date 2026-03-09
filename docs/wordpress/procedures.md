@@ -65,6 +65,8 @@ Gebruik de juiste relatiecodes bij het aanmaken van contacten:
 | **VKV** | Vakantieverhuur |
 | **BOG** | Bedrijfsonroerend goed (huur/koop) |
 | **INV** | Investeringspanden |
+| **TAX** | Taxatie / waardebepaling |
+| **EMI** | Emigratie begeleiding |
 
 ## Labelsysteem (kleuren)
 
