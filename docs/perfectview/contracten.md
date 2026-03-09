@@ -33,28 +33,6 @@ Wanneer een verkoopkans resulteert in een deal, koppel je deze aan een contract:
 2. Ga naar het tabblad **"Contracten"**
 3. Koppel het bestaande contract of maak een nieuw contract aan
 
-## Contractinformatie
-
-![Contractinformatie](../images/perfectview/Perfectview CRM Contractinformatie.png)
-
-Bekijk de uitgebreide contractinformatie inclusief:
-
-- Contractvoorwaarden
-- Courtage-afspraken
-- Looptijd en verlenging
-
-### Algemene voorwaarden
-
-![Algemene voorwaarden](../images/perfectview/Perfectview CRM Algemene Voorwaarden.png)
-
-De algemene voorwaarden zijn gekoppeld aan de contracten in het systeem.
-
-## Facturen
-
-![Facturen](../images/perfectview/Perfectview CRM mijn facturen.png)
-
-Via **"Mijn facturen"** kun je alle facturen inzien die gerelateerd zijn aan je Perfectview-licentie.
-
 ## Volgende stap
 
 Ga naar [Stap 6: Agenda & Gmail koppelen](agenda-gmail.md) voor het integreren van je agenda en e-mail.
