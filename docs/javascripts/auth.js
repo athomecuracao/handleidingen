@@ -5,7 +5,7 @@
 (function () {
   // SHA-256 hash van het wachtwoord "AtHome2026!"
   // Wijzig dit door een nieuw wachtwoord te hashen via: https://emn178.github.io/online-tools/sha256.html
-  const VALID_HASH = "23373fc8a39bf99cf39e5443a6e12dc930c90f464ea8173f2a81758c0d349593";
+  const VALID_HASH = "b353b42c4c7902afdd13232f4028a6337266f33e73f443b3fb8ffb4064fa926f";
 
   const LOGIN_PAGE = "/login/";
   const STORAGE_KEY = "athome_auth";
