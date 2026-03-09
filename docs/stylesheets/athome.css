@@ -27,15 +27,9 @@
   --md-accent-fg-color--transparent: #E6329026;
 }
 
-/* === Typografie (Montserrat 11px base) === */
+/* === Typografie (Montserrat, standaard grootte voor leesbaarheid) === */
 :root {
   --md-text-font: "Montserrat";
-  font-size: 11px;
-}
-
-.md-typeset {
-  font-size: 0.73rem;
-  line-height: 1.7;
 }
 
 /* Grotere koppen */
