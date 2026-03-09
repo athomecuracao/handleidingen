@@ -1,0 +1,89 @@
+site_name: At Home Curaçao — Handleidingen
+site_url: https://athomecuracao.github.io/handleidingen
+site_description: Handleidingen voor medewerkers van At Home Curaçao
+
+theme:
+  name: material
+  language: nl
+  custom_dir: overrides
+  palette:
+    - scheme: default
+      primary: teal
+      accent: orange
+      toggle:
+        icon: material/brightness-7
+        name: Donker thema
+    - scheme: slate
+      primary: teal
+      accent: orange
+      toggle:
+        icon: material/brightness-4
+        name: Licht thema
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.expand
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - toc.integrate
+  icon:
+    logo: material/home-city
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+plugins:
+  - search:
+      lang: nl
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - tables
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Home: index.md
+  - WordPress Website:
+      - Overzicht: wordpress/index.md
+      - 1. Inloggen: wordpress/inloggen.md
+      - 2. Dashboard & Backend: wordpress/dashboard.md
+      - 3. Listing aanmaken: wordpress/listing-aanmaken.md
+      - 4. Beschrijving & SEO: wordpress/beschrijving-seo.md
+      - 5. "Foto's & Galerij": wordpress/fotos-galerij.md
+      - 6. "Regio's, Wijken & Locaties": wordpress/regios-wijken.md
+      - 7. Property Tags: wordpress/tags.md
+      - 8. Slider & Homepage: wordpress/slider-homepage.md
+      - 9. Blog schrijven: wordpress/blog.md
+      - 10. Vertalen (WPML): wordpress/vertalen.md
+      - 11. Datum aanpassen: wordpress/datum-aanpassen.md
+      - Procedures & Afspraken: wordpress/procedures.md
+  - Perfectview CRM:
+      - Overzicht: perfectview/index.md
+      - 1. Inloggen: perfectview/inloggen.md
+      - 2. Werkplek inrichten: perfectview/werkplek.md
+      - 3. Contactgegevens invullen: perfectview/contactgegevens.md
+      - 4. Verkoopkansen & Fasen: perfectview/verkoopkansen.md
+      - 5. Contracten: perfectview/contracten.md
+      - 6. Agenda & Gmail koppelen: perfectview/agenda-gmail.md
+      - 7. Collega attenderen: perfectview/collega-attenderen.md
+      - 8. Brochure aanvraag: perfectview/brochure-aanvraag.md
+      - 9. Campagnes & Downloads: perfectview/campagnes.md
+      - Relatiecodes & Labels: perfectview/relatiecodes.md
+
+extra:
+  social: []
+
+extra_javascript:
+  - javascripts/auth.js
+
+extra_css: []
+
+copyright: "&copy; At Home Curaçao"

@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  <meta name="site-url" content="{{ config.site_url }}">
+  <meta name="robots" content="noindex, nofollow">
+  <style>
+    /* Verberg content totdat auth is geverifieerd */
+    body { visibility: hidden; }
+  </style>
+  <script>
+    (function() {
+      var VALID_HASH = "23373fc8a39bf99cf39e5443a6e12dc930c90f464ea8173f2a81758c0d349593";
+      var storedHash = sessionStorage.getItem("athome_auth");
+      if (storedHash === VALID_HASH) {
+        document.write('<style>body { visibility: visible !important; }</style>');
+      }
+    })();
+  </script>
+{% endblock %}

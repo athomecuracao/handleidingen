@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Inloggen — At Home Curaçao Handleidingen</title>
+  <meta name="robots" content="noindex, nofollow">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: 'Roboto', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: linear-gradient(135deg, #009688 0%, #00796b 100%);
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .login-card {
+      background: white;
+      border-radius: 12px;
+      padding: 48px 40px;
+      max-width: 420px;
+      width: 90%;
+      box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+      text-align: center;
+    }
+    .login-card h1 {
+      font-size: 24px;
+      color: #333;
+      margin-bottom: 8px;
+    }
+    .login-card .subtitle {
+      color: #666;
+      font-size: 14px;
+      margin-bottom: 32px;
+    }
+    .login-card .icon {
+      font-size: 48px;
+      margin-bottom: 16px;
+    }
+    .form-group {
+      margin-bottom: 20px;
+      text-align: left;
+    }
+    .form-group label {
+      display: block;
+      font-size: 14px;
+      font-weight: 500;
+      color: #555;
+      margin-bottom: 6px;
+    }
+    .form-group input {
+      width: 100%;
+      padding: 12px 16px;
+      border: 2px solid #e0e0e0;
+      border-radius: 8px;
+      font-size: 16px;
+      transition: border-color 0.2s;
+      outline: none;
+    }
+    .form-group input:focus {
+      border-color: #009688;
+    }
+    .error {
+      color: #d32f2f;
+      font-size: 13px;
+      margin-top: 6px;
+      display: none;
+    }
+    .btn {
+      width: 100%;
+      padding: 14px;
+      background: #009688;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      font-size: 16px;
+      font-weight: 500;
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+    .btn:hover { background: #00796b; }
+    .footer {
+      margin-top: 24px;
+      color: #999;
+      font-size: 12px;
+    }
+  </style>
+</head>
+<body>
+  <div class="login-card">
+    <div class="icon">🏠</div>
+    <h1>At Home Curaçao</h1>
+    <p class="subtitle">Voer het wachtwoord in om de handleidingen te bekijken</p>
+    <form id="loginForm">
+      <div class="form-group">
+        <label for="password">Wachtwoord</label>
+        <input type="password" id="password" placeholder="Wachtwoord invullen..." autofocus>
+        <p class="error" id="errorMsg">Onjuist wachtwoord. Neem contact op met je leidinggevende.</p>
+      </div>
+      <button type="submit" class="btn">Inloggen</button>
+    </form>
+    <p class="footer">Alleen voor medewerkers van At Home Curaçao</p>
+  </div>
+
+  <script>
+    // SHA-256 hash van het juiste wachtwoord
+    const VALID_HASH = "23373fc8a39bf99cf39e5443a6e12dc930c90f464ea8173f2a81758c0d349593";
+    const STORAGE_KEY = "athome_auth";
+
+    async function sha256(message) {
+      const msgBuffer = new TextEncoder().encode(message);
+      const hashBuffer = await crypto.subtle.digest('SHA-256', msgBuffer);
+      const hashArray = Array.from(new Uint8Array(hashBuffer));
+      return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+    }
+
+    document.getElementById('loginForm').addEventListener('submit', async function(e) {
+      e.preventDefault();
+      const password = document.getElementById('password').value;
+      const hash = await sha256(password);
+
+      if (hash === VALID_HASH) {
+        sessionStorage.setItem(STORAGE_KEY, VALID_HASH);
+        // Redirect to home page
+        const basePath = window.location.pathname.replace(/login\/?$/, '');
+        window.location.href = basePath || '/';
+      } else {
+        document.getElementById('errorMsg').style.display = 'block';
+        document.getElementById('password').value = '';
+        document.getElementById('password').focus();
+      }
+    });
+  </script>
+</body>
+</html>
