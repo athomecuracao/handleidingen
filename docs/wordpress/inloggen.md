@@ -13,7 +13,7 @@ https://athomecuracao.com/wp-login/
 
 ## Vul je gegevens in
 
-1. **Gebruikersnaam** — Vul je gebruikersnaam in die je van je leidinggevende hebt ontvangen
+1. **Gebruikersnaam** — Vul je gebruikersnaam in die je van je beheerder hebt ontvangen
 2. **Wachtwoord** — Vul je wachtwoord in
 3. Vink eventueel **"Onthoud mij"** aan als je op je eigen computer werkt
 4. Klik op **"Inloggen"**
@@ -26,4 +26,4 @@ https://athomecuracao.com/wp-login/
 Na succesvol inloggen kom je op het **WordPress Dashboard** terecht. Ga verder naar [Stap 2: Dashboard & Backend](dashboard.md).
 
 !!! danger "Wachtwoord vergeten?"
-    Klik op "Wachtwoord vergeten?" op het inlogscherm, of neem contact op met je leidinggevende.
+    Klik op "Wachtwoord vergeten?" op het inlogscherm, of neem contact op met je beheerder.

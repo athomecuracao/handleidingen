@@ -22,4 +22,4 @@ Perfectview is het CRM-systeem (Customer Relationship Management) dat At Home Cu
 | — | [Relatiecodes & Labels](relatiecodes.md) | Overzicht van codes en labels |
 
 !!! info "Voordat je begint"
-    Zorg dat je je Perfectview inloggegevens hebt ontvangen van je leidinggevende. Je hebt een e-mailadres en wachtwoord nodig.
+    Zorg dat je je Perfectview inloggegevens hebt ontvangen van je beheerder. Je hebt een e-mailadres en wachtwoord nodig.

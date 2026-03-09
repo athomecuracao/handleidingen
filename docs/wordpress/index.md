@@ -22,7 +22,7 @@ Deze handleiding legt stap voor stap uit hoe je de At Home Curaçao website behe
 | — | [Procedures & Afspraken](procedures.md) | Werkafspraken, relatiecodes en TAG-systeem |
 
 !!! info "Voordat je begint"
-    Zorg dat je je inloggegevens hebt ontvangen van je leidinggevende. Je hebt een gebruikersnaam en wachtwoord nodig.
+    Zorg dat je je inloggegevens hebt ontvangen van je beheerder. Je hebt een gebruikersnaam en wachtwoord nodig.
 
 !!! warning "Belangrijk"
     Sla je werk **regelmatig op als concept** ("Opslaan als Concept") tijdens het aanmaken van een listing. Zo voorkom je dat je werk verloren gaat.

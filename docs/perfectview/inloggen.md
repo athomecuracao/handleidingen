@@ -24,7 +24,7 @@ Klik op **"Inloggen"** rechtsboven op de pagina.
 Je komt nu op je Perfectview werkplek terecht. Als dit je eerste keer is, ga naar [Stap 2: Werkplek inrichten](werkplek.md) om je werkplek te configureren.
 
 !!! danger "Wachtwoord vergeten?"
-    Klik op "Wachtwoord vergeten?" op het inlogscherm, of neem contact op met je leidinggevende.
+    Klik op "Wachtwoord vergeten?" op het inlogscherm, of neem contact op met je beheerder.
 
 ## Volgende stap
 

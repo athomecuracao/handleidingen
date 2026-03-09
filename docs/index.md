@@ -29,4 +29,4 @@ Leer hoe je klant- en eigenaargegevens beheert in Perfectview CRM: werkplek inri
 
 ---
 
-*Vragen? Neem contact op met je leidinggevende.*
+*Vragen? Neem contact op met je beheerder.*

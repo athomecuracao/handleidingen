@@ -15,7 +15,7 @@ Na het kiezen van de regio kun je één of meerdere **wijken** selecteren.
 ![Regio en wijk kiezen](../images/wordpress/Wordpress regio en wijk kiezen.png)
 
 !!! danger "Geen nieuwe wijken aanmaken"
-    Maak **nooit** zelf nieuwe wijken aan. Dit mag alleen de systeembeheerder doen, omdat wijken ook vertaald moeten worden naar het Engels. Meld een ontbrekende wijk bij je leidinggevende.
+    Maak **nooit** zelf nieuwe wijken aan. Dit mag alleen de systeembeheerder doen, omdat wijken ook vertaald moeten worden naar het Engels. Meld een ontbrekende wijk bij je beheerder.
 
 ## Locatie op de kaart
 
