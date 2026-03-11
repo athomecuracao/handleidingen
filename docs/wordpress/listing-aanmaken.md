@@ -134,10 +134,60 @@ Selecteer ook de relevante **subgroepen** (meerdere mogelijk).
 
 ## Opslaan en publiceren
 
+### Het bewerkscherm
+
+![Edit Property scherm](../images/wordpress/Wordpress website intructie 20.16.52.png)
+
+Het bewerkscherm bevat links de editor met de beschrijvingstekst en rechts het **Publiceren-paneel** met de listing-status.
+
+### Publicatiestatus kiezen
+
+In het **Publiceren-paneel** rechtsboven kies je de status van de listing:
+
+![Publicatiestatus opties](../images/wordpress/Wordpress website intructie 20.20.55.png)
+
+| Status | Wanneer gebruiken |
+|--------|-------------------|
+| **Gepubliceerd** | Listing is live op de website |
+| **Concept** | Listing is nog niet klaar (niet zichtbaar) |
+| **In afwachting** | Wacht op goedkeuring van beheerder |
+| **Offline** | Listing tijdelijk offline halen |
+
+### Listing offline zetten
+
+![Offline status](../images/wordpress/Wordpress website intructie 20.21.07.png)
+
+Om een listing offline te zetten:
+
+1. Klik op **"Bewerken"** naast Status
+2. Kies **"Offline"**
+3. Klik op **"OK"**
+4. Klik op **"Update"**
+
+De listing is nu niet meer zichtbaar op de website maar blijft bewaard in het systeem.
+
+### Listing opnieuw publiceren
+
+![Publiceren knop](../images/wordpress/Wordpress website intructie 20.22.23.png)
+
+Om een offline listing opnieuw te publiceren:
+
+1. Open de listing
+2. Klik op de blauwe knop **"Publiceren"**
+3. De listing is weer live op de website
+
+### Publiceren workflow
+
 1. Klik op **"Voorbeeld"** om te controleren hoe de listing eruitziet
 2. Tevreden? Klik op **"Publiceren"**
 3. Niet klaar? Klik op **"Opslaan als Concept"**
 4. Na publicatie: klik op **"Wijzigingen bekijken"** om te controleren
+
+!!! warning "SEO-score"
+    In het Publiceren-paneel zie je ook de **SEO-score** (bijv. 58/100). Streef naar een score van minimaal **70/100**. Zie [Stap 4: Beschrijving & SEO](beschrijving-seo.md) voor tips.
+
+!!! danger "Lock Modified Date"
+    De **"Lock Modified Date"** toggle houdt de publicatiedatum vast. Gebruik dit **niet** als je wilt dat de listing omhoog komt in de lijst. Zie [Stap 11: Datum aanpassen](datum-aanpassen.md).
 
 ## Volgende stap
 

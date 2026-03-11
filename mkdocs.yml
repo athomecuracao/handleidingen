@@ -79,6 +79,12 @@ nav:
       - 9. Campagnes & Downloads: perfectview/campagnes.md
       - Relatiecodes & Labels: perfectview/relatiecodes.md
       - Abonnement & Licentie: perfectview/abonnement.md
+  - Google Ads:
+      - Overzicht: google-ads/index.md
+  - Google Analytics:
+      - Overzicht: google-analytics/index.md
+  - Zapier:
+      - Overzicht: zapier/index.md
 
 extra:
   social: []
