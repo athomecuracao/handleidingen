@@ -30,7 +30,9 @@ Leads worden verdeeld onder de volgende AHC agenten:
 
 1. **Jasmine Boularas** — +5999 515 7668
 2. **Jacqueline Dekker** — +5999 698 8678
-3. **Sander van Wijk**
+3. **Sander van Wijk** — +5999 695 7275
+4. **Karen Wouters** — +5999 683 2810
+5. **Floran Dhomi** — +31 6 47444388
 
 ## Verdelingsregels (prioriteiten)
 
