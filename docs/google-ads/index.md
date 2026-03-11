@@ -5,11 +5,13 @@ At Home Curaçao gebruikt Google Ads voor online advertenties. Hier leer je hoe 
 !!! info "Toegang"
     Je hebt een Google-account nodig met toegang tot het At Home Curaçao Google Ads-account. Vraag de beheerder om toegang.
 
+**Accountnummer:** `975-879-9065`
+
 ## Inloggen
 
 1. Ga naar [ads.google.com](https://ads.google.com)
 2. Log in met je Google-account
-3. Selecteer het **At Home Curaçao** account
+3. Selecteer het **At Home Curaçao** account (975-879-9065)
 
 ## Dashboard overzicht
 
