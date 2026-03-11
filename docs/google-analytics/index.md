@@ -5,11 +5,13 @@ At Home Curaçao gebruikt Google Analytics om het bezoekersverkeer op de website
 !!! info "Toegang"
     Je hebt een Google-account nodig met toegang tot het At Home Curaçao Google Analytics-account. Vraag de beheerder om toegang.
 
+**Accountnummer:** `975-879-9065`
+
 ## Inloggen
 
 1. Ga naar [analytics.google.com](https://analytics.google.com)
 2. Log in met je Google-account
-3. Selecteer de **At Home Curaçao** property
+3. Selecteer de **At Home Curaçao** property (975-879-9065)
 
 ## Dashboard overzicht
 
