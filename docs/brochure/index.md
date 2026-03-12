@@ -155,6 +155,30 @@ De bestandsnaam wordt automatisch afgeleid van de listing-URL, bijvoorbeeld:
 
 ---
 
+## Voorbeeldresultaat
+
+Hieronder zie je een voorbeeld van een automatisch gegenereerde brochure (Luxe Villa Boca Gentil):
+
+### Pagina 1: Cover
+
+![Brochure cover voorbeeld](../images/brochure/voorbeeld-cover.png)
+
+De cover bevat het At Home Curacao logo, een grote hero-foto, de titel, prijs en key facts (slaapkamers, badkamers, oppervlakte).
+
+### Pagina 2: Fotogalerij
+
+![Brochure galerij voorbeeld](../images/brochure/voorbeeld-galerij.png)
+
+De galerij toont tot 7 foto's van de listing in een overzichtelijk grid.
+
+### Pagina 3+: Beschrijving & Contact
+
+![Brochure beschrijving voorbeeld](../images/brochure/voorbeeld-beschrijving.png)
+
+De beschrijving bevat de volledige listing tekst en contactgegevens van At Home Curacao.
+
+---
+
 ## Inhoud van de brochure
 
 De gegenereerde brochure bevat automatisch:

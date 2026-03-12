@@ -80,6 +80,19 @@ nav:
       - Verdeling Leads & Verkoopkansen: perfectview/verdeling-leads.md
       - Relatiecodes & Labels: perfectview/relatiecodes.md
       - Abonnement & Licentie: perfectview/abonnement.md
+  - Google Ads:
+      - Overzicht: google-ads/index.md
+  - Google Analytics:
+      - Overzicht: google-analytics/index.md
+  - Zapier:
+      - Overzicht: zapier/index.md
+  - Brochure Maken:
+      - Overzicht: brochure/index.md
+  - Administratie:
+      - Agenda Vergadering: administratie/agenda-vergadering.md
+      - Kantoorbezetting: administratie/kantoorbezetting.md
+      - Verkoopoverzicht: administratie/verkoopoverzicht.md
+      - Overzicht Subscripties: administratie/subscripties.md
   - Werkzaamheden:
       - Overzicht: werkzaamheden/index.md
       - Leadbeheer:
@@ -108,14 +121,6 @@ nav:
           - Agent support: werkzaamheden/communicatie/agent-support.md
           - Belasting & Accountant: werkzaamheden/communicatie/belasting-accountant.md
       - Contactpersonen: werkzaamheden/contactpersonen.md
-  - Google Ads:
-      - Overzicht: google-ads/index.md
-  - Google Analytics:
-      - Overzicht: google-analytics/index.md
-  - Zapier:
-      - Overzicht: zapier/index.md
-  - Brochure Maken:
-      - Overzicht: brochure/index.md
 
 extra:
   social: []
