@@ -80,6 +80,34 @@ nav:
       - Verdeling Leads & Verkoopkansen: perfectview/verdeling-leads.md
       - Relatiecodes & Labels: perfectview/relatiecodes.md
       - Abonnement & Licentie: perfectview/abonnement.md
+  - Werkzaamheden:
+      - Overzicht: werkzaamheden/index.md
+      - Leadbeheer:
+          - Overzicht: werkzaamheden/leadbeheer/index.md
+          - WhatsApp-aanvragen verwerken: werkzaamheden/leadbeheer/whatsapp-leads.md
+          - Meta leads verwerken: werkzaamheden/leadbeheer/meta-leads.md
+          - Telefonische aanvragen: werkzaamheden/leadbeheer/telefoon-aanvragen.md
+      - Marketing & Advertenties:
+          - Overzicht: werkzaamheden/marketing/index.md
+          - Google Ads beheren: werkzaamheden/marketing/google-ads-beheer.md
+          - Meta berichten & advertenties: werkzaamheden/marketing/meta-advertenties.md
+          - E-mailcampagnes (Strike): werkzaamheden/marketing/email-campagnes.md
+          - AI-content creatie: werkzaamheden/marketing/ai-content.md
+      - Administratie:
+          - Overzicht: werkzaamheden/administratie/index.md
+          - Verkoopagenda: werkzaamheden/administratie/verkoopagenda.md
+          - Notulen: werkzaamheden/administratie/notulen.md
+          - Stagiaires: werkzaamheden/administratie/stagiaires.md
+          - Sollicitaties: werkzaamheden/administratie/sollicitaties.md
+          - Vergaderingen: werkzaamheden/administratie/vergaderingen.md
+          - Financieel beheer: werkzaamheden/administratie/financieel.md
+          - Declaraties (Transmark): werkzaamheden/administratie/declaraties.md
+          - Facturatie (QuickBooks): werkzaamheden/administratie/quickbooks.md
+      - Communicatie & Ondersteuning:
+          - Overzicht: werkzaamheden/communicatie/index.md
+          - Agent support: werkzaamheden/communicatie/agent-support.md
+          - Belasting & Accountant: werkzaamheden/communicatie/belasting-accountant.md
+      - Contactpersonen: werkzaamheden/contactpersonen.md
   - Google Ads:
       - Overzicht: google-ads/index.md
   - Google Analytics:

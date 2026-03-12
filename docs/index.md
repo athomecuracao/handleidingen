@@ -12,6 +12,9 @@ Leer hoe je property listings aanmaakt en beheert op de At Home Curaçao website
 ### :material-account-group: [Perfectview CRM](perfectview/index.md)
 Leer hoe je klant- en eigenaargegevens beheert in Perfectview CRM: werkplek inrichten, contacten beheren, verkoopkansen bijhouden, agenda koppelen en meer.
 
+### :material-clipboard-check: [Werkzaamheden Overzicht](werkzaamheden/index.md)
+Compleet overzicht van alle wekelijkse werkzaamheden: leadbeheer, marketing, administratie en meer. Inclusief stapsgewijze instructies en urenbesteding per taak.
+
 ---
 
 ## Hoe gebruik je deze handleidingen?
