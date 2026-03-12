@@ -15,6 +15,18 @@ Leer hoe je klant- en eigenaargegevens beheert in Perfectview CRM: werkplek inri
 ### :material-clipboard-check: [Werkzaamheden Overzicht](werkzaamheden/index.md)
 Compleet overzicht van alle wekelijkse werkzaamheden: leadbeheer, marketing, administratie en meer. Inclusief stapsgewijze instructies en urenbesteding per taak.
 
+### :material-google-ads: [Google Ads](google-ads/index.md)
+Leer hoe je het Google Ads-dashboard gebruikt, campagnes beheert en advertentieresultaten analyseert. Accountnummer: 975-879-9065.
+
+### :material-google-analytics: [Google Analytics](google-analytics/index.md)
+Leer hoe je bezoekersverkeer op de website analyseert: paginaweergaven, acquisitiekanalen, conversies en meer.
+
+### :material-connection: [Zapier](zapier/index.md)
+Leer hoe Zapier-automatiseringen werken: Facebook Lead Ads koppelen aan webhooks en andere integraties.
+
+### :material-file-pdf-box: [Brochure Maken](brochure/index.md)
+Genereer automatisch professionele PDF-brochures van listings op de At Home Curacao website. Inclusief foto's, prijs, kenmerken en contactgegevens.
+
 ---
 
 ## Hoe gebruik je deze handleidingen?

@@ -114,6 +114,8 @@ nav:
       - Overzicht: google-analytics/index.md
   - Zapier:
       - Overzicht: zapier/index.md
+  - Brochure Maken:
+      - Overzicht: brochure/index.md
 
 extra:
   social: []
