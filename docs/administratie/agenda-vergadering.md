@@ -8,8 +8,8 @@ Dit document beschrijft het standaard format voor de maandelijkse vergadering va
 |-----------|---------|
 | **Frequentie** | Maandelijks |
 | **Duur** | 10:00 - 11:30 (1,5 uur) |
-| **Voorzitter** | MV |
-| **Notulist** | MV |
+| **Voorzitter** | PZ |
+| **Notulist** | FD |
 | **Deelname** | Via Zoom of op kantoor |
 
 ## Standaard agendapunten
@@ -77,13 +77,13 @@ Gebruik onderstaand format bij het opstellen van een nieuwe agenda:
 Agenda vergadering [datum]
 10.00 - 11.30
 
-Voorzitter: MV
+Voorzitter: PZ
 
 Aanwezig:
 Via Zoom:
 Afwezig:
 
-Notulist: MV
+Notulist: FD
 
 1. Opening vergadering door voorzitter
 2. Notulen voorgaande vergadering [datum vorige vergadering]
