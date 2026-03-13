@@ -11,7 +11,11 @@ At Home Curaçao gebruikt Google Ads voor online advertenties. Hier leer je hoe 
 
 1. Ga naar [ads.google.com](https://ads.google.com)
 2. Log in met je Google-account
-3. Selecteer het **At Home Curaçao** account (975-879-9065)
+3. Vul de **2FA-code** in uit je **Google Authenticator** app
+4. Selecteer het **At Home Curaçao** account (975-879-9065)
+
+!!! warning "2FA vereist"
+    Voor het inloggen is **tweefactorauthenticatie (2FA)** via Google Authenticator vereist. Zorg dat je de Google Authenticator app op je telefoon hebt geinstalleerd en gekoppeld aan je Google-account.
 
 ## Dashboard overzicht
 
