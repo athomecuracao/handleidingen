@@ -8,7 +8,7 @@
 Of ga rechtstreeks naar:
 
 ```
-https://athomecuracao.com/wp-login/
+https://athomecuracao.com/wp-admin/
 ```
 
 ## Vul je gegevens in
