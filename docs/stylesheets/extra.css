@@ -1,0 +1,12 @@
+/* Screenshots groter weergeven in lightbox */
+.glightbox-clean .gslide-image img {
+    min-width: 90vw !important;
+    max-width: 95vw !important;
+    height: auto !important;
+    image-rendering: auto;
+}
+
+/* Screenshots op de pagina ook groter weergeven */
+.md-content img {
+    cursor: zoom-in;
+}

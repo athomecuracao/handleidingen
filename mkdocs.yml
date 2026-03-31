@@ -140,6 +140,7 @@ extra:
 extra_javascript:
   - javascripts/auth.js
 
-extra_css: []
+extra_css:
+  - stylesheets/extra.css
 
 copyright: "&copy; At Home Curaçao"
