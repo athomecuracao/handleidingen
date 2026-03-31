@@ -1,7 +1,7 @@
-/* Screenshots groter weergeven in lightbox */
+/* Screenshots 2x zo groot weergeven in lightbox */
 .glightbox-clean .gslide-image img {
-    min-width: 90vw !important;
-    max-width: 95vw !important;
+    width: 200% !important;
+    max-width: none !important;
     height: auto !important;
     image-rendering: auto;
 }
