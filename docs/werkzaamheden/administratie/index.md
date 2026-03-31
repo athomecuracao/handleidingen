@@ -14,7 +14,7 @@ Administratieve taken nemen **7,5 uur per week** in beslag en omvatten vergaderi
 | Sollicitaties verwerken | 1 | [Sollicitaties](sollicitaties.md) |
 | Managementvergaderingen | 1 | [Vergaderingen](vergaderingen.md) |
 | Financieel beheer, abonnementen | 1 | [Financieel](financieel.md) |
-| Transmark declaraties | 0,5 | [Declaraties](declaraties.md) |
+| Declaraties | 0,5 | [Declaraties](declaraties.md) |
 | QuickBooks facturatie | 0,5 | [QuickBooks](quickbooks.md) |
 
 ---

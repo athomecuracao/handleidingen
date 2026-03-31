@@ -25,7 +25,7 @@ Dit is het complete overzicht van alle wekelijkse werkzaamheden bij At Home Cura
 | 13 | Strike | E-mailcampagnes maken | 1 | [E-mailcampagnes](marketing/email-campagnes.md) |
 | 14 | Divers | Managementvergaderingen | 1 | [Vergaderingen](administratie/vergaderingen.md) |
 | 15 | Divers | Financieel beheer, abonnementen, facturatie | 1 | [Financieel](administratie/financieel.md) |
-| 16 | Excel | Transmark declaraties beheren | 0,5 | [Declaraties](administratie/declaraties.md) |
+| 16 | Excel | Declaraties beheren | 0,5 | [Declaraties](administratie/declaraties.md) |
 | 17 | WhatsApp | Agenten ondersteunen (telefoon, WhatsApp) | 1 | [Agent support](communicatie/agent-support.md) |
 | 18 | WhatsApp | Afstemming belasting/accountant | 0,5 | [Belasting & Accountant](communicatie/belasting-accountant.md) |
 | 19 | AI | Blog schrijven, tags onderzoeken, pagina's maken | 0,5 | [AI-content](marketing/ai-content.md) |

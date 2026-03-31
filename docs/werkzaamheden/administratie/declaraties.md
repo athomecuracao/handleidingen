@@ -1,8 +1,8 @@
-# Declaraties (Transmark)
+# Declaraties
 
 **Tijdsbesteding:** ~0,5 uur per week
 
-Onkostendeclaraties van Transmark beheren en verwerken in Excel.
+Onkostendeclaraties beheren en verwerken in Excel.
 
 ---
 

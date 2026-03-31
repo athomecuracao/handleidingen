@@ -46,7 +46,7 @@ Afstemming met de accountant en belastingdienst over financiële zaken van At Ho
 | Inkoopfacturen/bonnen | Maandelijks | Scan/foto |
 | Bankafschriften | Maandelijks | PDF van bank |
 | Commissieoverzicht per agent | Per kwartaal | Excel |
-| Declaraties Transmark | Maandelijks | Excel |
+| Declaraties | Maandelijks | Excel |
 
 ---
 
