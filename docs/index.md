@@ -12,6 +12,9 @@ Leer hoe je property listings aanmaakt en beheert op de At Home Curaçao website
 ### :material-account-group: [Perfectview CRM](perfectview/index.md)
 Leer hoe je klant- en eigenaargegevens beheert in Perfectview CRM: werkplek inrichten, contacten beheren, verkoopkansen bijhouden, agenda koppelen en meer.
 
+### :material-domain: [Google Workspace](google-workspace/index.md)
+Beheer gebruikersaccounts, groepen, 2FA-beveiliging en domeinen in de Google Admin Console. Inclusief aanmaken, verwijderen, opschorten en data overzetten.
+
 ### :material-google-ads: [Google Ads](google-ads/index.md)
 Leer hoe je het Google Ads-dashboard gebruikt, campagnes beheert en advertentieresultaten analyseert. Accountnummer: 975-879-9065.
 

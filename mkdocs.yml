@@ -90,6 +90,8 @@ nav:
       - Verdeling Leads & Verkoopkansen: perfectview/verdeling-leads.md
       - Relatiecodes & Labels: perfectview/relatiecodes.md
       - Abonnement & Licentie: perfectview/abonnement.md
+  - Google Workspace:
+      - Overzicht: google-workspace/index.md
   - Google Ads:
       - Overzicht: google-ads/index.md
   - Google Analytics:
