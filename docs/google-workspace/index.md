@@ -1,6 +1,6 @@
 # Google Workspace
 
-At Home Curaçao gebruikt Google Workspace (voorheen G Suite) voor e-mail, agenda, Drive en meer. Het domein is **athomecuracao.com** en wordt beheerd via de Google Admin Console door **Transmark Beheer b.v.**
+At Home Curaçao gebruikt Google Workspace (voorheen G Suite) voor e-mail, agenda, Drive en meer. Het domein is **athomecuracao.com** en wordt beheerd via de Google Admin Console.
 
 !!! info "Toegang"
     Je hebt **beheerderrechten** nodig om gebruikers te beheren. Ga naar [admin.google.com](https://admin.google.com) en log in met je beheerdersaccount.
